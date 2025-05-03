@@ -61,7 +61,12 @@
     "id": "TEST",
     "joined": "18.4.2025",
     "playercount": "9",
-    "spawn": "50 64",
+    "spawn": {
+      "x": "1000",
+      "z": "1000",
+      "world": "world"
+    },
+
     "ambassadors": ["chocolate", "chocochoco"],
     "name": "Testing Test",
     "website": "crowhurst.ws"
