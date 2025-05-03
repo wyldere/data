@@ -3,7 +3,11 @@
       "id": "PEX",
       "joined": "20.4.2025",
       "playercount": "12",
-      "spawn": "100 64",
+      "spawn": [
+        "x": "100",
+        "z": "100",
+        "world": "world",
+      ],
       "ambassadors": [
         "Bob Donald",
         "Chuck Nale"
@@ -95,10 +99,6 @@
       "website": "ohs.stanford.edu"
     }
   }
-  
-  
-  
-  
   
   
   
