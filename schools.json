@@ -1,13 +1,13 @@
 {
-    "PEX": {
-      "id": "PEX",
+    "SOF": {
+      "id": "SOF",
       "joined": "20.4.2025",
       "playercount": "12",
-      "spawn": [
+      "spawn": {
         "x": "100",
         "z": "100",
         "world": "world",
-      ],
+      },
       "ambassadors": [
         "Bob Donald",
         "Chuck Nale"
@@ -85,20 +85,8 @@
       ],
       "name": "Testing Test",
       "website": "crowhurst.ws"
-    },
-    "SOF": {
-      "id": "SOF",
-      "joined": "18.4.2025",
-      "playercount": "9",
-      "spawn": "50 64",
-      "ambassadors": [
-        "chocolate",
-        "chocochoco"
-      ],
-      "name": "The Sofya Quartz Teaching Assembly",
-      "website": "ohs.stanford.edu"
     }
-  }
+}
   
   
   
