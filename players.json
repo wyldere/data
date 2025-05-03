@@ -1,13 +1,4 @@
 {
-  "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
-    "username": "candy....................",
-    "pronouns": "he/him",
-    "grad": "co29",
-    "name": "Bob Donald",
-    "school": "PEX",
-    "role": "Admin",
-    "status": "blacklist"
-  },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "username": "cooked_cods",
     "pronouns": "None",
@@ -29,7 +20,20 @@
     "role": "Developer",
     "email": "kmrao@ohs.stanford.edu",
     "discord": "dilly.dallying_",
+    "status": "clear",
+    "pix": "8"
+  },
+  "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
+    "username": "Wildere",
+    "pronouns": "None",
+    "grad": "30",
+    "name": "Kieran R",
+    "school": "SOF",
+    "role": "Developer",
+    "email": "kmrao@ohs.stanford.edu",
+    "discord": "dilly.dallying_",
     "status": "blacklist",
     "pix": "8"
   }
+
 }
