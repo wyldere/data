@@ -19,7 +19,7 @@
     "discord": "dilly.dallying_",
     "status": "clear",
     "pix": "8"
-  }
+  },
   "7968873d-798e-45e8-9329-f17c717267b8": {
     "username": "MrSpots",
     "pronouns": "None",
@@ -29,8 +29,7 @@
     "role": "Developer",
     "email": "kmrao@ohs.stanford.edu",
     "discord": "dilly.dallying_",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   }
-
 }
