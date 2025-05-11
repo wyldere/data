@@ -17,7 +17,7 @@
     "grad": "30",
     "name": "Kieran R",
     "school": "SOF",
-    "role": "Developer",
+    "role": "ambassador",
     "email": "kmrao@ohs.stanford.edu",
     "discord": "dilly.dallying_",
     "status": "clear",
@@ -26,13 +26,13 @@
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "username": "wildere",
     "pronouns": "None",
-    "grad": "29",
+    "grad": "30",
     "name": "Greyson W",
     "school": "TEST",
     "role": "Player",
     "email": "greyson@crowhurst.ws",
     "discord": "wildere",
-    "status": "banned",
+    "status": "clear",
     "pix": "8"
   }
 }
