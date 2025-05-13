@@ -15,26 +15,10 @@
     "name": "Testing Test",
     "website": "crowhurst.ws"
   },
-  "SOF": {
-    "id": "SOF",
-    "joined": "18.4.2025",
-    "playercount": 2,
-    "spawn": {
-      "x": "1000",
-      "z": "1000",
-      "world": "world"
-    },
-    "ambassadors": [
-      "chocolate",
-      "chocochoco"
-    ],
-    "name": "Testing Test",
-    "website": "crowhurst.ws"
-  },
   "OHS": {
     "id": "OHS",
     "joined": "18.4.2025",
-    "playercount": 4,
+    "playercount": 5,
     "spawn": {
       "x": "5000",
       "z": "5000",
