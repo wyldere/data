@@ -82,5 +82,41 @@
     "discord": "antony105_64301",
     "status": "clear",
     "pix": "8"
+  },
+  "221b1b62-cb14-4475-b676-efdb7c03ca81": {
+    "username": "bofiathebuffalo",
+    "pronouns": "None",
+    "grad": "30",
+    "name": "Sofya K",
+    "school": "OHS",
+    "role": "Player",
+    "email": "sofyak@ohs.stanford.edu",
+    "discord": "pinkponyclubbing",
+    "status": "clear",
+    "pix": "8"
+  },
+  "37139699-e9a3-43fd-bd1c-32aaf0f39e44": {
+    "username": "RevengeNM",
+    "pronouns": "None",
+    "grad": "30",
+    "name": "Nathan M",
+    "school": "OHS",
+    "role": "Player",
+    "email": "nathanm5@ohs.stanford.edu",
+    "discord": "NA (big sad)",
+    "status": "clear",
+    "pix": "8"
+  },
+  "365b7b68-8c3f-4620-80e7-34a9710be266": {
+    "username": "Testt",
+    "pronouns": "None",
+    "grad": "21",
+    "name": "Test",
+    "school": "OHS",
+    "role": "Player",
+    "email": "gwyler@ohs.stanford.edu",
+    "discord": "Test",
+    "status": "clear",
+    "pix": "8"
   }
 }
