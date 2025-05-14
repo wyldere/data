@@ -14,5 +14,21 @@
     ],
     "name": "Stanford Online High School",
     "website": "ohs.stanford.edu"
+  },
+  "HW": {
+    "id": "HW",
+    "joined": "13.5.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "3000",
+      "z": "4000",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Julian",
+      "NobodyKnows"
+    ],
+    "name": "Harvard West-",
+    "website": "hwemail.com"
   }
 }
