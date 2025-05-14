@@ -17,9 +17,9 @@
     "grad": "29",
     "name": "Taylan D",
     "school": "OHS",
-    "role": "developer",
+    "role": "player",
     "email": "tayland@ohs.stanford.edu",
-    "discord": "dilly.dallying_",
+    "discord": ".mrspots",
     "status": "clear",
     "pix": "8"
   },
@@ -32,7 +32,7 @@
     "role": "developer",
     "email": "greyson@crowhurst.ws",
     "discord": "wildere",
-    "status": "blacklist",
+    "status": "clear",
     "pix": "8"
   },
   "59ad3ce6-26e5-4971-aef3-904b6a295abf": {
@@ -104,18 +104,6 @@
     "role": "Player",
     "email": "nathanm5@ohs.stanford.edu",
     "discord": "NA (big sad)",
-    "status": "blacklist",
-    "pix": "8"
-  },
-  "365b7b68-8c3f-4620-80e7-34a9710be266": {
-    "username": "Testt",
-    "pronouns": "None",
-    "grad": "21",
-    "name": "Test",
-    "school": "OHS",
-    "role": "Player",
-    "email": "gwyler@ohs.stanford.edu",
-    "discord": "Test",
     "status": "blacklist",
     "pix": "8"
   }
