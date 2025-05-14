@@ -8,7 +8,7 @@
     "role": "Player",
     "email": "kmrao@ohs.stanford.edu",
     "discord": "dilly.dallying_",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   },
   "7968873d-798e-45e8-9329-f17c717267b8": {
@@ -32,7 +32,7 @@
     "role": "developer",
     "email": "greyson@crowhurst.ws",
     "discord": "wildere",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   },
   "59ad3ce6-26e5-4971-aef3-904b6a295abf": {
@@ -44,7 +44,7 @@
     "role": "Player",
     "email": "natkrip@ohs.stanford.edu",
     "discord": "natkrip2030",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   },
   "8c85fb68-d2d1-42bc-a7c3-3508c04e1cff": {
@@ -56,7 +56,7 @@
     "role": "developer",
     "email": "mdaane@ohs.stanford.edu",
     "discord": "riaskater",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   },
   "460b1814-16ed-4e2d-8f0b-1e332fb708f6": {
@@ -80,7 +80,7 @@
     "role": "Player",
     "email": "wynnl@ohs.stanford.edu",
     "discord": "antony105_64301",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   },
   "221b1b62-cb14-4475-b676-efdb7c03ca81": {
@@ -92,7 +92,7 @@
     "role": "Player",
     "email": "sofyak@ohs.stanford.edu",
     "discord": "pinkponyclubbing",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   },
   "37139699-e9a3-43fd-bd1c-32aaf0f39e44": {
@@ -104,7 +104,7 @@
     "role": "Player",
     "email": "nathanm5@ohs.stanford.edu",
     "discord": "NA (big sad)",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   },
   "365b7b68-8c3f-4620-80e7-34a9710be266": {
@@ -116,7 +116,7 @@
     "role": "Player",
     "email": "gwyler@ohs.stanford.edu",
     "discord": "Test",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   }
 }
