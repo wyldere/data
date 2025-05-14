@@ -17,7 +17,7 @@
     "grad": "29",
     "name": "Taylan D",
     "school": "OHS",
-    "role": "new",
+    "role": "Developer",
     "email": "tayland@ohs.stanford.edu",
     "discord": ".mrspots",
     "status": "clear",
@@ -29,10 +29,10 @@
     "grad": "29",
     "name": "Greyson W",
     "school": "TEST",
-    "role": "developer",
+    "role": "ambassador",
     "email": "greyson@crowhurst.ws",
     "discord": "wildere",
-    "status": "blacklist",
+    "status": "clear",
     "pix": "8"
   },
   "59ad3ce6-26e5-4971-aef3-904b6a295abf": {
@@ -104,6 +104,18 @@
     "role": "Player",
     "email": "nathanm5@ohs.stanford.edu",
     "discord": "NA (big sad)",
+    "status": "clear",
+    "pix": "8"
+  },
+  "e7ba56ee-a592-402d-bb75-fc0002609beb": {
+    "username": "Phasma2023",
+    "pronouns": "None",
+    "grad": "29",
+    "name": "Inara M.",
+    "school": "OHS",
+    "role": "new",
+    "email": "mimi2011@ohs.stanford.edu",
+    "discord": "N/A",
     "status": "clear",
     "pix": "8"
   }
