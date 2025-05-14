@@ -18,10 +18,10 @@
   "OHS": {
     "id": "OHS",
     "joined": "18.4.2025",
-    "playercount": 7,
+    "playercount": 8,
     "spawn": {
-      "x": "5000",
-      "z": "5000",
+      "x": "4963",
+      "z": "4955",
       "world": "world"
     },
     "ambassadors": [
