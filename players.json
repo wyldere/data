@@ -107,6 +107,18 @@
     "status": "clear",
     "pix": "8"
   },
+  "1b50dec7-eafe-4a2e-a0d3-c711e89d8b77": {
+    "username": "Trion_11",
+    "pronouns": "None",
+    "grad": "30",
+    "name": "None",
+    "school": "HWS",
+    "role": "new",
+    "email": "None",
+    "discord": "trion11",
+    "status": "blacklist",
+    "pix": "8"
+  },
   "e7ba56ee-a592-402d-bb75-fc0002609beb": {
     "username": "Phasma2023",
     "pronouns": "None",
@@ -116,30 +128,6 @@
     "role": "new",
     "email": "mimi2011@ohs.stanford.edu",
     "discord": "N/A",
-    "status": "clear",
-    "pix": "8"
-  },
-  "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
-    "username": "TheEnderPlague",
-    "pronouns": "None",
-    "grad": "27",
-    "name": "Francisco M",
-    "school": "OHS",
-    "role": "new",
-    "email": "samchub@ohs.stanford.edu",
-    "discord": "theenderplague9065",
-    "status": "clear",
-    "pix": "8"
-  },
-  "ec688cec-c31c-4cc4-9558-c7a94d2f3ec4": {
-    "username": "shreyyyyuh",
-    "pronouns": "None",
-    "grad": "30",
-    "name": "Sherri L",
-    "school": "OHS",
-    "role": "new",
-    "email": "slin12@ohs.stanford.edu",
-    "discord": "I don’t have one!",
     "status": "clear",
     "pix": "8"
   }
