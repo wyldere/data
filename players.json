@@ -4,7 +4,7 @@
     "pronouns": "None",
     "grad": "30",
     "name": "Kieran R",
-    "school": "SOF",
+    "school": "OHS",
     "role": "Player",
     "email": "kmrao@ohs.stanford.edu",
     "discord": "dilly.dallying_",
@@ -28,7 +28,7 @@
     "pronouns": "None",
     "grad": "29",
     "name": "Greyson W",
-    "school": "TEST",
+    "school": "OHS",
     "role": "ambassador",
     "email": "greyson@crowhurst.ws",
     "discord": "wildere",
@@ -80,7 +80,7 @@
     "role": "Player",
     "email": "wynnl@ohs.stanford.edu",
     "discord": "antony105_64301",
-    "status": "blacklist",
+    "status": "clear",
     "pix": "8"
   },
   "221b1b62-cb14-4475-b676-efdb7c03ca81": {
@@ -116,6 +116,30 @@
     "role": "new",
     "email": "mimi2011@ohs.stanford.edu",
     "discord": "N/A",
+    "status": "clear",
+    "pix": "8"
+  },
+  "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
+    "username": "TheEnderPlague",
+    "pronouns": "None",
+    "grad": "27",
+    "name": "Francisco M",
+    "school": "OHS",
+    "role": "new",
+    "email": "samchub@ohs.stanford.edu",
+    "discord": "theenderplague9065",
+    "status": "clear",
+    "pix": "8"
+  },
+  "ec688cec-c31c-4cc4-9558-c7a94d2f3ec4": {
+    "username": "shreyyyyuh",
+    "pronouns": "None",
+    "grad": "30",
+    "name": "Sherri L",
+    "school": "OHS",
+    "role": "new",
+    "email": "slin12@ohs.stanford.edu",
+    "discord": "I don’t have one!",
     "status": "clear",
     "pix": "8"
   }
