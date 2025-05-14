@@ -17,7 +17,7 @@
     "grad": "29",
     "name": "Taylan D",
     "school": "OHS",
-    "role": "player",
+    "role": "new",
     "email": "tayland@ohs.stanford.edu",
     "discord": ".mrspots",
     "status": "clear",
@@ -32,7 +32,7 @@
     "role": "developer",
     "email": "greyson@crowhurst.ws",
     "discord": "wildere",
-    "status": "clear",
+    "status": "blacklist",
     "pix": "8"
   },
   "59ad3ce6-26e5-4971-aef3-904b6a295abf": {
@@ -104,7 +104,7 @@
     "role": "Player",
     "email": "nathanm5@ohs.stanford.edu",
     "discord": "NA (big sad)",
-    "status": "blacklist",
+    "status": "clear",
     "pix": "8"
   }
 }
