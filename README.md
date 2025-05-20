@@ -28,7 +28,7 @@ hello!??!
 
 
 
-this is just gonna go on and on forever vro
+this is just gonna go on and on vro
 
 
 
