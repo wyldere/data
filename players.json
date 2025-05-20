@@ -149,9 +149,21 @@
     "grad": "28",
     "name": "wika",
     "school": "OHS",
-    "role": "new",
+    "role": "player",
     "email": "wikasun@ohs.stanford.edu",
     "discord": "wikasu",
+    "status": "clear",
+    "pix": "8"
+  },
+  "bebfa99d-9b6e-4bc0-96f6-4f0639e9ba6d": {
+    "username": "waddlss",
+    "pronouns": "None",
+    "grad": "26",
+    "name": "Justin",
+    "school": "OHS",
+    "role": "new",
+    "email": "jaekwan@ohs.stanford.edu",
+    "discord": "waddls",
     "status": "clear",
     "pix": "8"
   }
