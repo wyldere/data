@@ -30,5 +30,20 @@
     ],
     "name": "Harvard Westlake",
     "website": "hwemail.com"
+  },
+  "AND": {
+    "id": "AND",
+    "joined": "20.5.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "2000",
+      "z": "2000",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Matthew Wei"
+    ],
+    "name": "Phillips Andover",
+    "website": "andover.edu"
   }
 }
