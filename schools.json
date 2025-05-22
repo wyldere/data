@@ -64,7 +64,7 @@
   "DAO": {
     "id": "DAO",
     "joined": "21.5.2025",
-    "playercount": 0,
+    "playercount": 1,
     "spawn": {
       "x": "-5000",
       "z": "3500",
