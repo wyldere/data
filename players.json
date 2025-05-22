@@ -67,7 +67,7 @@
     "school": "OHS",
     "role": "Player",
     "email": "cb1658@ohs.stanford.edu",
-    "discord": "N/A",
+    "discord": "None",
     "status": "clear",
     "pix": "8"
   },
@@ -103,7 +103,7 @@
     "school": "OHS",
     "role": "Player",
     "email": "nathanm5@ohs.stanford.edu",
-    "discord": "NA (big sad)",
+    "discord": "None",
     "status": "clear",
     "pix": "8"
   },
@@ -127,7 +127,7 @@
     "school": "OHS",
     "role": "player",
     "email": "mimi2011@ohs.stanford.edu",
-    "discord": "N/A",
+    "discord": "None",
     "status": "clear",
     "pix": "8"
   },
@@ -187,7 +187,19 @@
     "school": "OHS",
     "role": "new",
     "email": "gartrell@ohs.stanford.edu",
-    "discord": "I don't have one since I lost account",
+    "discord": "None",
+    "status": "clear",
+    "pix": "8"
+  },
+  "ec688cec-c31c-4cc4-9558-c7a94d2f3ec4": {
+    "username": "shreyyyyuh",
+    "pronouns": "None",
+    "grad": "30",
+    "name": "Sherri",
+    "school": "OHS",
+    "role": "new",
+    "email": "slin12@ohs.stanford.edu",
+    "discord": "None",
     "status": "clear",
     "pix": "8"
   }
