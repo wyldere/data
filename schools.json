@@ -76,5 +76,20 @@
     ],
     "name": "Davidson Academy Online",
     "website": "davidsononline.org"
+  },
+  "AEON": {
+    "id": "AEON",
+    "joined": "23.5.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "3000",
+      "z": "-3500",
+      "world": "world"
+    },
+    "ambassadors": [
+      "None"
+    ],
+    "name": "AEON School",
+    "website": "aeonschool.org"
   }
 }
