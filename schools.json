@@ -4,8 +4,8 @@
     "joined": "18.4.2025",
     "playercount": 15,
     "spawn": {
-      "x": "4963",
-      "z": "4955",
+      "x": "0",
+      "z": "0",
       "world": "world"
     },
     "ambassadors": [
@@ -20,8 +20,8 @@
     "joined": "13.5.2025",
     "playercount": 2,
     "spawn": {
-      "x": "3000",
-      "z": "4000",
+      "x": "0",
+      "z": "0",
       "world": "world"
     },
     "ambassadors": [
@@ -36,12 +36,12 @@
     "joined": "20.5.2025",
     "playercount": 0,
     "spawn": {
-      "x": "2000",
-      "z": "2000",
+      "x": "0",
+      "z": "0",
       "world": "world"
     },
     "ambassadors": [
-      "Matthew Wei"
+      "Matthew W"
     ],
     "name": "Phillips Andover",
     "website": "andover.edu"
@@ -51,8 +51,8 @@
     "joined": "21.5.2025",
     "playercount": 0,
     "spawn": {
-      "x": "-8500",
-      "z": "-5000",
+      "x": "0",
+      "z": "0",
       "world": "world"
     },
     "ambassadors": [
@@ -66,8 +66,8 @@
     "joined": "21.5.2025",
     "playercount": 2,
     "spawn": {
-      "x": "-5000",
-      "z": "3500",
+      "x": "0",
+      "z": "0",
       "world": "world"
     },
     "ambassadors": [
@@ -82,7 +82,7 @@
     "joined": "23.5.2025",
     "playercount": 0,
     "spawn": {
-      "x": "3000",
+      "x": "0",
       "z": "-3500",
       "world": "world"
     },
@@ -91,5 +91,20 @@
     ],
     "name": "AEON School",
     "website": "aeonschool.org"
+  },
+  "AISC": {
+    "id": "AISC",
+    "joined": "25.5.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Ariel L."
+    ],
+    "name": "American International School in Cyprus",
+    "website": "aisc.ac.cy"
   }
 }
