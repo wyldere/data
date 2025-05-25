@@ -92,8 +92,8 @@
     "name": "AEON School",
     "website": "aeonschool.org"
   },
-  "AISC": {
-    "id": "AISC",
+  "CYPE": {
+    "id": "CYPE",
     "joined": "25.5.2025",
     "playercount": 0,
     "spawn": {
@@ -104,7 +104,7 @@
     "ambassadors": [
       "Ariel L."
     ],
-    "name": "American International School in Cyprus",
-    "website": "aisc.ac.cy"
+    "name": "Cyprus Schools",
+    "website": "ac.cy"
   }
 }
