@@ -3,108 +3,63 @@
     "id": "OHS",
     "joined": "18.4.2025",
     "playercount": 14,
-    "spawn": {
-      "x": "0",
-      "z": "0",
-      "world": "world"
-    },
-    "ambassadors": [
-      "chocolate",
-      "chocochoco"
-    ],
+    "spawn": { "x": "0", "z": "0", "world": "world" },
+    "ambassadors": ["chocolate", "chocochoco"],
     "name": "Stanford Online High School",
-    "website": "ohs.stanford.edu"
+    "website": ["ohs.stanford.edu"]
   },
   "HW": {
     "id": "HW",
     "joined": "13.5.2025",
     "playercount": 2,
-    "spawn": {
-      "x": "0",
-      "z": "0",
-      "world": "world"
-    },
-    "ambassadors": [
-      "Julian",
-      "NobodyKnows"
-    ],
+    "spawn": { "x": "0", "z": "0", "world": "world" },
+    "ambassadors": ["Julian", "NobodyKnows"],
     "name": "Harvard Westlake",
-    "website": "hwemail.com"
+    "website": ["hwemail.com"]
   },
   "AND": {
     "id": "AND",
     "joined": "20.5.2025",
     "playercount": 0,
-    "spawn": {
-      "x": "0",
-      "z": "0",
-      "world": "world"
-    },
-    "ambassadors": [
-      "Matthew W"
-    ],
+    "spawn": { "x": "0", "z": "0", "world": "world" },
+    "ambassadors": ["Matthew W"],
     "name": "Phillips Andover",
-    "website": "andover.edu"
+    "website": ["andover.edu"]
   },
   "WFS": {
     "id": "WFS",
     "joined": "21.5.2025",
     "playercount": 0,
-    "spawn": {
-      "x": "0",
-      "z": "0",
-      "world": "world"
-    },
-    "ambassadors": [
-      "Asher Twilley"
-    ],
+    "spawn": { "x": "0", "z": "0", "world": "world" },
+    "ambassadors": ["Asher Twilley"],
     "name": "Wilmington Friends",
-    "website": "wilmingtonfriends.org"
+    "website": ["wilmingtonfriends.org"]
   },
   "DAO": {
     "id": "DAO",
     "joined": "21.5.2025",
     "playercount": 3,
-    "spawn": {
-      "x": "0",
-      "z": "0",
-      "world": "world"
-    },
-    "ambassadors": [
-      "Emily Zhou",
-      "Declan Gregory"
-    ],
+    "spawn": { "x": "0", "z": "0", "world": "world" },
+    "ambassadors": ["Emily Zhou", "Declan Gregory"],
     "name": "Davidson Academy Online",
-    "website": "davidsononline.org"
+    "website": ["davidsononline.org"]
   },
   "AEON": {
     "id": "AEON",
     "joined": "23.5.2025",
     "playercount": 1,
-    "spawn": {
-      "x": "0",
-      "z": "-3500",
-      "world": "world"
-    },
-    "ambassadors": [
-      "None"
-    ],
+    "spawn": { "x": "0", "z": "-3500", "world": "world" },
+    "ambassadors": ["None"],
     "name": "AEON School",
-    "website": "aeonschool.org"
+    "website": ["aeonschool.org"]
   },
   "CYPE": {
     "id": "CYPE",
     "joined": "25.5.2025",
     "playercount": 0,
-    "spawn": {
-      "x": "0",
-      "z": "0",
-      "world": "world"
-    },
-    "ambassadors": [
-      "Ariel L."
-    ],
+    "spawn": { "x": "0", "z": "0", "world": "world" },
+    "ambassadors": ["Ariel L."],
     "name": "Cyprus Schools",
-    "website": "ac.cy"
+    "website": ["aisc.ac.cy", "gcsc.ac.cy"]
   }
 }
