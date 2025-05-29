@@ -246,7 +246,7 @@
     "name": "Greyson",
     "pix": "8",
     "pronouns": "None",
-    "role": "new",
+    "role": "player",
     "school": "OHS",
     "status": "clear",
     "username": "Wildere"
@@ -262,6 +262,18 @@
     "school": "OHS",
     "status": "clear",
     "username": "waddlss"
+  },
+  "c78a5a0a-1bee-44d1-b6aa-e6b1f49c7db3": {
+    "discord": "han0427",
+    "email": "han0427@ohs.stanford.edu",
+    "grad": "27",
+    "name": "Han Lu",
+    "pix": "8",
+    "pronouns": "None",
+    "role": "new",
+    "school": "OHS",
+    "status": "clear",
+    "username": "NatTheBag"
   },
   "e7ba56ee-a592-402d-bb75-fc0002609beb": {
     "discord": "None",
