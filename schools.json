@@ -79,8 +79,8 @@
       "world": "world"
     },
     "ambassadors": [
-      "Emily Zhou",
-      "Declan Gregory"
+      "Emily Z",
+      "Declan G"
     ],
     "name": "Davidson Academy Online",
     "website": [
@@ -114,12 +114,29 @@
       "world": "world"
     },
     "ambassadors": [
-      "Ariel L."
+      "Ariel L"
     ],
     "name": "Cyprus Schools",
     "website": [
       "aisc.ac.cy",
       "gcsc.ac.cy"
+    ]
+  },
+  "SF": {
+    "id": "SF",
+    "joined": "30.5.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Dan M"
+    ],
+    "name": "South Fayette",
+    "website": [
+      "lions.net"
     ]
   }
 }
