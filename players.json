@@ -270,7 +270,7 @@
     "name": "Greyson",
     "pix": "8",
     "pronouns": "None",
-    "role": "new",
+    "role": "player",
     "school": "OHS",
     "status": "clear",
     "username": "Wildere"
@@ -342,7 +342,7 @@
     "name": "Declan",
     "pix": "8",
     "pronouns": "None",
-    "role": "player",
+    "role": "ambassador",
     "school": "DAO",
     "status": "clear",
     "username": "FlamingDragonly"
