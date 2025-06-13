@@ -418,5 +418,29 @@
     "school": "OHS",
     "status": "clear",
     "username": "TGM_151"
+  },
+  "90f330eb-6853-40ef-91e8-c566c122f964": {
+    "discord": "pureriko",
+    "email": "zzang@aisc.ac.cy",
+    "grad": "27",
+    "name": "Niko",
+    "pix": "8",
+    "pronouns": "None",
+    "role": "player",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "pureriko"
+  },
+  "f5aa7431-a884-47e9-9089-a23d7dedbc37": {
+    "discord": "Konthegreat11lsTheKing",
+    "email": "kkanellopoulos@aisc.ac.cy",
+    "grad": "28",
+    "name": "Kon",
+    "pix": "8",
+    "pronouns": "None",
+    "role": "player",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "Konthegreat11"
   }
 }
