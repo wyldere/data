@@ -119,6 +119,18 @@
     "status": "clear",
     "username": "cooked_cods"
   },
+  "4532e8f3-96d8-4429-996b-eac5be00641d": {
+    "discord": "jrezila",
+    "email": "yoschlachter@aisc.ac.cy",
+    "grad": "28",
+    "name": "Yonathan",
+    "pix": "8",
+    "pronouns": "None",
+    "role": "player",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "tanithegoat"
+  },
   "45a936f6-f01e-4fce-ba5b-0b22bc9fe3ce": {
     "discord": "antony105_64301",
     "email": "wynnl@ohs.stanford.edu",
@@ -251,6 +263,18 @@
     "status": "clear",
     "username": "venicerats"
   },
+  "90f330eb-6853-40ef-91e8-c566c122f964": {
+    "discord": "pureriko",
+    "email": "zzang@aisc.ac.cy",
+    "grad": "27",
+    "name": "Niko",
+    "pix": "8",
+    "pronouns": "None",
+    "role": "player",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "pureriko"
+  },
   "9382aafc-cc70-4675-b3e0-c6cdd97cceae": {
     "discord": "tikopg",
     "email": "tgrayson@davidsononline.org",
@@ -330,7 +354,7 @@
     "name": "Greyson",
     "pix": "8",
     "pronouns": "None",
-    "role": "player",
+    "role": "new",
     "school": "OHS",
     "status": "clear",
     "username": "Wildere"
@@ -358,6 +382,18 @@
     "school": "OHS",
     "status": "clear",
     "username": "NatTheBag"
+  },
+  "e0a76b9e-9aa2-4402-aae7-cccb6b1783a1": {
+    "discord": "run2__",
+    "email": "yoschlachter@aisc.ac.cy",
+    "grad": "28",
+    "name": "R",
+    "pix": "8",
+    "pronouns": "None",
+    "role": "player",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "Erabreaker136"
   },
   "e7ba56ee-a592-402d-bb75-fc0002609beb": {
     "discord": "None",
@@ -407,30 +443,6 @@
     "status": "clear",
     "username": "FlamingDragonly"
   },
-  "f708b643-f2ab-41cc-b28a-be1815e5da1e": {
-    "discord": "",
-    "email": "saj2010@ohs.stanford.edu",
-    "grad": "27",
-    "name": "Shantanu ",
-    "pix": "8",
-    "pronouns": "None",
-    "role": "player",
-    "school": "OHS",
-    "status": "clear",
-    "username": "TGM_151"
-  },
-  "90f330eb-6853-40ef-91e8-c566c122f964": {
-    "discord": "pureriko",
-    "email": "zzang@aisc.ac.cy",
-    "grad": "27",
-    "name": "Niko",
-    "pix": "8",
-    "pronouns": "None",
-    "role": "player",
-    "school": "CYPE",
-    "status": "clear",
-    "username": "pureriko"
-  },
   "f5aa7431-a884-47e9-9089-a23d7dedbc37": {
     "discord": "Konthegreat11istheking",
     "email": "kkanellopoulos@aisc.ac.cy",
@@ -442,5 +454,17 @@
     "school": "CYPE",
     "status": "clear",
     "username": "Konthegreat11"
+  },
+  "f708b643-f2ab-41cc-b28a-be1815e5da1e": {
+    "discord": "",
+    "email": "saj2010@ohs.stanford.edu",
+    "grad": "27",
+    "name": "Shantanu ",
+    "pix": "8",
+    "pronouns": "None",
+    "role": "player",
+    "school": "OHS",
+    "status": "clear",
+    "username": "TGM_151"
   }
 }
