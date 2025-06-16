@@ -1,6 +1,6 @@
 {
   "06465dbf-b23d-4a15-a345-b4aef2cf270f": {
-    "discord": "",
+    "discord": "None",
     "email": "elias.soto31@aeonschool.org",
     "grad": "31",
     "name": "Elijah",
@@ -373,12 +373,9 @@
   },
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "discord": "wildere",
-    "email": "gwyler@ohs.stanford.edu",
     "grad": "29",
-    "name": "Greyson",
     "pix": "8",
-    "pronouns": "None",
-    "role": "player",
+    "role": "new",
     "school": "OHS",
     "status": "clear",
     "username": "Wildere"
