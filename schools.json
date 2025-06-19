@@ -141,7 +141,7 @@
   },
   "ARCH": {
     "id": "ARCH",
-    "joined": "11.6.2025",
+    "joined": "6.15.2025",
     "playercount": 0,
     "spawn": {
       "x": "0",
@@ -154,6 +154,23 @@
     "name": "Archmere Academy",
     "website": [
       "archmereacademy.com"
+    ]
+  },
+  "MIR": {
+    "id": "MIR",
+    "joined": "6.18.2025",
+    "playercount": 1,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Miguel"
+    ],
+    "name": "Mirman School",
+    "website": [
+      "mirmanmustangs.org"
     ]
   }
 }
