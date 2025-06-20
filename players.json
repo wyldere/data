@@ -111,7 +111,7 @@
     "discord": "dilly.dallying_",
     "grad": "30",
     "pix": "8",
-    "role": "Player",
+    "role": "ambassador",
     "school": "OHS",
     "status": "clear",
     "username": "cooked_cods"
@@ -410,7 +410,7 @@
     "pix": "8",
     "role": "player",
     "school": "OHS",
-    "status": "clear",
+    "status": "banned",
     "username": "TGM_151"
   }
 }
