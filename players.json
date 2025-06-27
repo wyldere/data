@@ -419,7 +419,10 @@
     "pix": "8",
     "role": "player",
     "school": "OHS",
-    "status": "banned",
+    "status": "clear",
     "username": "TGM_151"
+  },
+  "379be669-d170-3dec-8320-eddaecc63129": {
+    "status": "blacklist"
   }
 }
