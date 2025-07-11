@@ -120,7 +120,7 @@
     "discord": "dilly.dallying_",
     "grad": "30",
     "pix": "8",
-    "role": "ambassador",
+    "role": "player",
     "school": "OHS",
     "status": "clear",
     "username": "cooked_cods"
@@ -158,7 +158,7 @@
     "pix": "8",
     "role": "player",
     "school": "OHS",
-    "status": "clear",
+    "status": "banned",
     "username": "uncracked1"
   },
   "52ef47f8-f5de-4136-abbc-3ffa0afc946c": {
@@ -228,7 +228,7 @@
     "discord": ".mrspots",
     "grad": "29",
     "pix": "8",
-    "role": "Developer",
+    "role": "developer",
     "school": "OHS",
     "status": "clear",
     "username": "MrSpots"
