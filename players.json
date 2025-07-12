@@ -116,6 +116,9 @@
     "status": "clear",
     "username": "RevengeNM"
   },
+  "379be669-d170-3dec-8320-eddaecc63129": {
+    "status": "blacklist"
+  },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "discord": ".kranberry",
     "grad": "30",
@@ -350,6 +353,15 @@
     "status": "clear",
     "username": "NatTheBag"
   },
+  "d26d888b-a6e7-4c1f-afc1-1c3050de7f53": {
+    "discord": "noodlesquared92",
+    "grad": "30",
+    "pix": "8",
+    "role": "new",
+    "school": "OHS",
+    "status": "clear",
+    "username": "lol4127364"
+  },
   "e0a76b9e-9aa2-4402-aae7-cccb6b1783a1": {
     "discord": "run2__",
     "grad": "28",
@@ -421,8 +433,5 @@
     "school": "OHS",
     "status": "clear",
     "username": "TGM_151"
-  },
-  "379be669-d170-3dec-8320-eddaecc63129": {
-    "status": "blacklist"
   }
 }
