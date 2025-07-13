@@ -116,9 +116,6 @@
     "status": "clear",
     "username": "RevengeNM"
   },
-  "379be669-d170-3dec-8320-eddaecc63129": {
-    "status": "blacklist"
-  },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "discord": ".kranberry",
     "grad": "30",
@@ -330,7 +327,7 @@
     "discord": "wildere",
     "grad": "29",
     "pix": "8",
-    "role": "admin",
+    "role": "player",
     "school": "OHS",
     "status": "clear",
     "username": "Wildere"
