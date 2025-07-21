@@ -118,7 +118,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 15.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
@@ -226,11 +226,11 @@
   },
   "7968873d-798e-45e8-9329-f17c717267b8": {
     "grad": "29",
-    "pixAmount": 7.0,
+    "pixAmount": 0.9900002479553223,
     "pronouns": null,
     "role": "developer",
     "school": "OHS",
-    "status": "banned",
+    "status": "clear",
     "username": "MrSpots"
   },
   "8c85fb68-d2d1-42bc-a7c3-3508c04e1cff": {
@@ -325,12 +325,12 @@
   },
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "grad": "29",
-    "pixAmount": 10.0,
+    "pixAmount": 7.010000228881836,
     "pronouns": null,
-    "role": "player",
+    "role": "admin",
     "school": "OHS",
     "status": "clear",
-    "username": "wildere"
+    "username": "Wildere"
   },
   "bebfa99d-9b6e-4bc0-96f6-4f0639e9ba6d": {
     "grad": "26",
