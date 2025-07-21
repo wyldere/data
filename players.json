@@ -118,7 +118,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 15.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
@@ -145,7 +145,7 @@
   },
   "460b1814-16ed-4e2d-8f0b-1e332fb708f6": {
     "grad": "29",
-    "pixAmount": 8.0,
+    "pixAmount": 13.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
@@ -226,7 +226,7 @@
   },
   "7968873d-798e-45e8-9329-f17c717267b8": {
     "grad": "29",
-    "pixAmount": 0.9900002479553223,
+    "pixAmount": 4.0,
     "pronouns": null,
     "role": "developer",
     "school": "OHS",
@@ -325,7 +325,7 @@
   },
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "grad": "29",
-    "pixAmount": 7.010000228881836,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "admin",
     "school": "OHS",
