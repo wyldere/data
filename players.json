@@ -1,7 +1,7 @@
 {
   "06465dbf-b23d-4a15-a345-b4aef2cf270f": {
     "grad": "31",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "AEON",
@@ -10,7 +10,7 @@
   },
   "0b58f7c7-7dcf-4a73-951f-cd7d1a0918a3": {
     "grad": "31",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "CYPE",
@@ -19,7 +19,7 @@
   },
   "0c367eec-92de-4dfa-89e6-b8e93d0ec5c2": {
     "grad": "29",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "CYPE",
@@ -28,7 +28,7 @@
   },
   "114729fc-c6b5-40db-9aba-e0356eb3bd29": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
@@ -37,7 +37,7 @@
   },
   "16b10b92-aa92-4826-82e9-38768000832c": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "DAO",
@@ -46,7 +46,7 @@
   },
   "1b50dec7-eafe-4a2e-a0d3-c711e89d8b77": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -55,7 +55,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -64,7 +64,7 @@
   },
   "221b1b62-cb14-4475-b676-efdb7c03ca81": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "Player",
     "school": "OHS",
@@ -73,7 +73,7 @@
   },
   "23ca4888-e46a-4a62-b0f9-7b17095cc6f2": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "new",
     "school": "OHS",
@@ -82,7 +82,7 @@
   },
   "24c2ee19-ecad-46bf-a976-3f572c6d651c": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "new",
     "school": "OHS",
@@ -91,7 +91,7 @@
   },
   "26b76982-3367-4d91-93bf-d5f7ece352bd": {
     "grad": "29",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "Ambassador",
     "school": "DAO",
@@ -100,7 +100,7 @@
   },
   "28e1378b-6c67-4e3f-bbe1-2d65c83f0195": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "DAO",
@@ -109,7 +109,7 @@
   },
   "37139699-e9a3-43fd-bd1c-32aaf0f39e44": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "Player",
     "school": "OHS",
@@ -118,7 +118,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
@@ -127,7 +127,7 @@
   },
   "4532e8f3-96d8-4429-996b-eac5be00641d": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "CYPE",
@@ -136,7 +136,7 @@
   },
   "45a936f6-f01e-4fce-ba5b-0b22bc9fe3ce": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "Player",
     "school": "OHS",
@@ -145,7 +145,7 @@
   },
   "460b1814-16ed-4e2d-8f0b-1e332fb708f6": {
     "grad": "29",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
@@ -154,7 +154,7 @@
   },
   "48fd2610-2bb2-404c-99bd-e0bca4ca81d6": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -163,7 +163,7 @@
   },
   "52ef47f8-f5de-4136-abbc-3ffa0afc946c": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -172,7 +172,7 @@
   },
   "59ad3ce6-26e5-4971-aef3-904b6a295abf": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "Player",
     "school": "OHS",
@@ -181,7 +181,7 @@
   },
   "64659606-ff83-43ef-8e78-5ef019f7015e": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -190,7 +190,7 @@
   },
   "6b38411a-696e-45c7-a1dd-63129c5c2c6e": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "DAO",
@@ -199,7 +199,7 @@
   },
   "6ca4f920-c65a-4a14-a832-7299c47e0fb4": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "new",
     "school": "OHS",
@@ -208,7 +208,7 @@
   },
   "6e4aaaca-43a0-450f-917b-19f8448426e2": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -217,7 +217,7 @@
   },
   "6fbc7d0f-4993-4c03-b876-317d27a9a923": {
     "grad": "27",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "new",
     "school": "OHS",
@@ -226,7 +226,7 @@
   },
   "70446724-d086-4281-8638-8f7e8c076927": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "MIR",
@@ -235,7 +235,7 @@
   },
   "7968873d-798e-45e8-9329-f17c717267b8": {
     "grad": "29",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "developer",
     "school": "OHS",
@@ -244,7 +244,7 @@
   },
   "8c85fb68-d2d1-42bc-a7c3-3508c04e1cff": {
     "grad": "27",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "developer",
     "school": "OHS",
@@ -253,7 +253,7 @@
   },
   "8da2493e-4225-4c21-abfe-698453d34fe6": {
     "grad": "31",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "Ambassador",
     "school": "AEON",
@@ -262,7 +262,7 @@
   },
   "90f330eb-6853-40ef-91e8-c566c122f964": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "new",
     "school": "CYPE",
@@ -271,7 +271,7 @@
   },
   "9382aafc-cc70-4675-b3e0-c6cdd97cceae": {
     "grad": "27",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "DAO",
@@ -280,7 +280,7 @@
   },
   "99b5e612-a0eb-483c-84cf-9d3f2ab39026": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "CYPE",
@@ -289,7 +289,7 @@
   },
   "a37d7b0b-f4f4-4b24-bc35-2f6b2d03b62e": {
     "grad": "26",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "SF",
@@ -298,7 +298,7 @@
   },
   "a88b619e-7f33-45fa-a43f-862d5eebf334": {
     "grad": "26",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "new",
     "school": "UST",
@@ -307,7 +307,7 @@
   },
   "a8f2c902-e6f6-4851-b83b-594efefd832a": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "new",
     "school": "OHS",
@@ -316,7 +316,7 @@
   },
   "aa0d12c2-422b-41f2-90d7-be192907ac2d": {
     "grad": "26",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -325,7 +325,7 @@
   },
   "b1369640-e03d-433a-8cca-6d79dddef615": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "CYPE",
@@ -334,7 +334,7 @@
   },
   "b50f7ece-a8f0-4cf0-bdc8-23fbbb66de4f": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "DAO",
@@ -343,7 +343,7 @@
   },
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "grad": "29",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "admin",
     "school": "OHS",
@@ -352,7 +352,7 @@
   },
   "bebfa99d-9b6e-4bc0-96f6-4f0639e9ba6d": {
     "grad": "26",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -361,7 +361,7 @@
   },
   "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
     "grad": "27",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -370,7 +370,7 @@
   },
   "c78a5a0a-1bee-44d1-b6aa-e6b1f49c7db3": {
     "grad": "27",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -379,7 +379,7 @@
   },
   "d26d888b-a6e7-4c1f-afc1-1c3050de7f53": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -388,7 +388,7 @@
   },
   "e0a76b9e-9aa2-4402-aae7-cccb6b1783a1": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "CYPE",
@@ -397,7 +397,7 @@
   },
   "e7ba56ee-a592-402d-bb75-fc0002609beb": {
     "grad": "29",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -406,7 +406,7 @@
   },
   "e902c3a6-e27e-4b60-b0f9-f3f8e1f1ca8b": {
     "grad": "27",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -415,7 +415,7 @@
   },
   "ec688cec-c31c-4cc4-9558-c7a94d2f3ec4": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -424,7 +424,7 @@
   },
   "f0348c0a-79a6-4a13-bba5-d760eec3fe5b": {
     "grad": "26",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -433,7 +433,7 @@
   },
   "f151a8b7-f500-41cf-9133-dd019a4ee90f": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -442,7 +442,7 @@
   },
   "f27e4c63-0363-4e31-ab4e-0bf6b2c06230": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "DAO",
@@ -451,7 +451,7 @@
   },
   "f5aa7431-a884-47e9-9089-a23d7dedbc37": {
     "grad": "28",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "CYPE",
@@ -460,7 +460,7 @@
   },
   "f708b643-f2ab-41cc-b28a-be1815e5da1e": {
     "grad": "27",
-    "pixAmount": 8.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
