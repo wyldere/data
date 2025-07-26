@@ -118,7 +118,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 1.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
@@ -136,7 +136,7 @@
   },
   "45a936f6-f01e-4fce-ba5b-0b22bc9fe3ce": {
     "grad": "30",
-    "pixAmount": 14.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "Player",
     "school": "OHS",
@@ -145,7 +145,7 @@
   },
   "460b1814-16ed-4e2d-8f0b-1e332fb708f6": {
     "grad": "29",
-    "pixAmount": 2.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
@@ -226,7 +226,7 @@
   },
   "70446724-d086-4281-8638-8f7e8c076927": {
     "grad": "30",
-    "pixAmount": 6.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "MIR",
@@ -235,7 +235,7 @@
   },
   "7968873d-798e-45e8-9329-f17c717267b8": {
     "grad": "29",
-    "pixAmount": 4.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "developer",
     "school": "OHS",
@@ -343,7 +343,7 @@
   },
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "grad": "29",
-    "pixAmount": 2.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "admin",
     "school": "OHS",
@@ -361,7 +361,7 @@
   },
   "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
     "grad": "27",
-    "pixAmount": 0.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -415,7 +415,7 @@
   },
   "ec688cec-c31c-4cc4-9558-c7a94d2f3ec4": {
     "grad": "30",
-    "pixAmount": 6.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -442,7 +442,7 @@
   },
   "f27e4c63-0363-4e31-ab4e-0bf6b2c06230": {
     "grad": "30",
-    "pixAmount": 6.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "DAO",
