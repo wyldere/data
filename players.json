@@ -136,7 +136,7 @@
   },
   "45a936f6-f01e-4fce-ba5b-0b22bc9fe3ce": {
     "grad": "30",
-    "pixAmount": 20.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "Player",
     "school": "OHS",
@@ -145,7 +145,7 @@
   },
   "460b1814-16ed-4e2d-8f0b-1e332fb708f6": {
     "grad": "29",
-    "pixAmount": 5.587935447692871e-09,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "OHS",
