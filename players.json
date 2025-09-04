@@ -245,7 +245,7 @@
   "7968873d-798e-45e8-9329-f17c717267b8": {
     "grad": "29",
     "pixAmount": 0.0,
-    "pronouns": null,
+    "pronouns": "He/Him",
     "role": "developer",
     "school": "OHS",
     "status": "clear",
@@ -379,8 +379,8 @@
   },
   "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
     "grad": "27",
-    "pixAmount": 10.0,
-    "pronouns": null,
+    "pixAmount": 4.0,
+    "pronouns": "he/him",
     "role": "player",
     "school": "OHS",
     "status": "clear",
