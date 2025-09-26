@@ -215,6 +215,15 @@
     "status": "clear",
     "username": "The_Blueberry_"
   },
+  "5533e390-81ef-407c-bb20-d70a807a6feb": {
+    "grad": "31",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "HW",
+    "status": "clear",
+    "username": "CrispyToastMC"
+  },
   "59ad3ce6-26e5-4971-aef3-904b6a295abf": {
     "grad": "30",
     "pixAmount": 10.0,
@@ -489,10 +498,10 @@
     "grad": "31",
     "pixAmount": 8.0,
     "pronouns": null,
-    "role": "new",
+    "role": "player",
     "school": "HW",
     "status": "clear",
-    "username": "wofflmc"
+    "username": "wofflMC"
   },
   "e0a76b9e-9aa2-4402-aae7-cccb6b1783a1": {
     "grad": "28",
