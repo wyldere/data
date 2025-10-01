@@ -29,7 +29,7 @@
   "0c367eec-92de-4dfa-89e6-b8e93d0ec5c2": {
     "grad": "29",
     "pixAmount": 10.0,
-    "pronouns": null,
+    "pronouns": "he/him",
     "role": "ambassador",
     "school": "CYPE",
     "status": "clear",
@@ -196,6 +196,15 @@
     "school": "OHS",
     "status": "banned",
     "username": "uncracked1"
+  },
+  "4d4d7c3a-fedb-4487-b43d-724675e6283b": {
+    "grad": "30",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "Microseventy"
   },
   "4e3129c7-0bbf-401e-abfb-4e855431b069": {
     "grad": "30",
