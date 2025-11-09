@@ -190,5 +190,22 @@
     "website": [
       "ust.edu.ph"
     ]
+  },
+  "EVH": {
+    "id": "EVH",
+    "joined": "11.9.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Liam L"
+    ],
+    "name": "Eagle Valley High School",
+    "website": [
+      "ecschools.me"
+    ]
   }
 }
