@@ -20,7 +20,7 @@
   "HW": {
     "id": "HW",
     "joined": "13.5.2025",
-    "playercount": 8,
+    "playercount": 9,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -206,6 +206,23 @@
     "name": "Eagle Valley High School",
     "website": [
       "ecschools.me"
+    ]
+  },
+  "DLW": {
+    "id": "DLW",
+    "joined": "11.12.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Luke K"
+    ],
+    "name": "Dulwich College International",
+    "website": [
+      "stu.dulwich.org"
     ]
   }
 }
