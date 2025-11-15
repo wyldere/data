@@ -100,7 +100,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 11.0,
+    "pixAmount": 17.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -262,7 +262,7 @@
   },
   "5533e390-81ef-407c-bb20-d70a807a6feb": {
     "grad": "31",
-    "pixAmount": 2.2351741790771484e-08,
+    "pixAmount": 2.0,
     "pronouns": "He/Him",
     "role": "player",
     "school": "HW",
@@ -496,7 +496,7 @@
   },
   "af8099ba-abcd-422b-b776-242c83a25d37": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 2.0,
     "pronouns": null,
     "role": "player",
     "school": "HW",
