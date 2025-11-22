@@ -100,7 +100,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 16.0,
+    "pixAmount": 14.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -262,7 +262,7 @@
   },
   "5533e390-81ef-407c-bb20-d70a807a6feb": {
     "grad": "31",
-    "pixAmount": 2.0,
+    "pixAmount": 4.0,
     "pronouns": "He/Him",
     "role": "player",
     "school": "HW",
