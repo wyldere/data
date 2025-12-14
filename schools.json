@@ -224,5 +224,22 @@
     "website": [
       "stu.dulwich.org"
     ]
+  },
+  "XRDS": {
+    "id": "XRDS",
+    "joined": "12.13.2025",
+    "playercount": 1,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Holden S"
+    ],
+    "name": "Crossroads School",
+    "website": [
+      "k12.xrds.org"
+    ]
   }
 }
