@@ -577,7 +577,7 @@
   },
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "grad": "29",
-    "pixAmount": 3.0,
+    "pixAmount": 5.0,
     "pronouns": null,
     "role": "admin",
     "school": "OHS",
@@ -707,7 +707,7 @@
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
-    "status": "banned",
+    "status": "clear",
     "username": "raspiberri"
   },
   "ec688cec-c31c-4cc4-9558-c7a94d2f3ec4": {

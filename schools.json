@@ -20,7 +20,7 @@
   "HW": {
     "id": "HW",
     "joined": "13.5.2025",
-    "playercount": 8,
+    "playercount": 9,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -240,6 +240,23 @@
     "name": "Crossroads School",
     "website": [
       "k12.xrds.org"
+    ]
+  },
+  "GEFF": {
+    "id": "GEFF",
+    "joined": "12.24.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Bardin F"
+    ],
+    "name": "Geffen Academy",
+    "website": [
+      "geffenacademy.ucla.edu"
     ]
   }
 }
