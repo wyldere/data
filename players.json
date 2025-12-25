@@ -104,7 +104,7 @@
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
-    "status": "banned",
+    "status": "clear",
     "username": "vigugegege"
   },
   "215bac1a-7c38-4ded-bb57-d2a25edc8329": {
@@ -160,6 +160,15 @@
     "school": "DAO",
     "status": "clear",
     "username": "ScaroSnow"
+  },
+  "3213c488-d770-404a-9028-4bae9ea292d9": {
+    "grad": "30",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "MIR",
+    "status": "clear",
+    "username": "penguinsoldierz"
   },
   "37139699-e9a3-43fd-bd1c-32aaf0f39e44": {
     "grad": "30",
