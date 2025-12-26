@@ -165,10 +165,10 @@
     "grad": "30",
     "pixAmount": 8.0,
     "pronouns": null,
-    "role": "new",
+    "role": "player",
     "school": "MIR",
     "status": "clear",
-    "username": "penguinsoldierz"
+    "username": "PenguinSoldierZ"
   },
   "37139699-e9a3-43fd-bd1c-32aaf0f39e44": {
     "grad": "30",
@@ -190,7 +190,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 11.0,
+    "pixAmount": 10.0,
     "pronouns": "kran/berry",
     "role": "player",
     "school": "OHS",
@@ -712,7 +712,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 3.0,
+    "pixAmount": 4.0,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
