@@ -199,7 +199,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 10.0,
+    "pixAmount": 21.0,
     "pronouns": "kran/berry",
     "role": "player",
     "school": "OHS",
@@ -291,7 +291,7 @@
     "grad": "31",
     "pixAmount": 10.0,
     "pronouns": "He/Him",
-    "role": "player",
+    "role": "developer",
     "school": "HW",
     "status": "clear",
     "username": "CrispyToastMC"
@@ -406,7 +406,7 @@
   },
   "7968873d-798e-45e8-9329-f17c717267b8": {
     "grad": "29",
-    "pixAmount": 58.0,
+    "pixAmount": 47.0,
     "pronouns": "He/Him",
     "role": "developer",
     "school": "OHS",
