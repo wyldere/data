@@ -68,7 +68,7 @@
     "pronouns": null,
     "role": "player",
     "school": "HW",
-    "status": "clear",
+    "status": "banned",
     "username": "cheesypig666"
   },
   "16b10b92-aa92-4826-82e9-38768000832c": {
@@ -100,7 +100,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 14.0,
+    "pixAmount": 30.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -275,7 +275,7 @@
     "pronouns": "crazy person",
     "role": "player",
     "school": "CYPE",
-    "status": "clear",
+    "status": "banned",
     "username": "Microseventy"
   },
   "4e3129c7-0bbf-401e-abfb-4e855431b069": {
