@@ -199,8 +199,8 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 13.0,
-    "pronouns": "kran/berry",
+    "pixAmount": 9.0,
+    "pronouns": "hi",
     "role": "player",
     "school": "OHS",
     "status": "clear",
@@ -268,6 +268,15 @@
     "school": "OHS",
     "status": "banned",
     "username": "uncracked1"
+  },
+  "4a7bdb77-ce67-4623-9ff6-5ee6c0a6c975": {
+    "grad": "30",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "player",
+    "school": "GEFF",
+    "status": "clear",
+    "username": "icy_vort3x"
   },
   "4d4d7c3a-fedb-4487-b43d-724675e6283b": {
     "grad": "30",
@@ -397,7 +406,7 @@
   },
   "70446724-d086-4281-8638-8f7e8c076927": {
     "grad": "30",
-    "pixAmount": 5.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "MIR",
@@ -448,6 +457,15 @@
     "school": "HW",
     "status": "clear",
     "username": "LYL_PLAZ"
+  },
+  "8a75f688-b5a2-45b8-8d3a-a0031a890fcc": {
+    "grad": "30",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "player",
+    "school": "HW",
+    "status": "clear",
+    "username": "KatsuWater"
   },
   "8c85fb68-d2d1-42bc-a7c3-3508c04e1cff": {
     "grad": "27",
@@ -577,7 +595,7 @@
   },
   "af8099ba-abcd-422b-b776-242c83a25d37": {
     "grad": "30",
-    "pixAmount": 3.0,
+    "pixAmount": 4.0,
     "pronouns": null,
     "role": "player",
     "school": "HW",
@@ -601,6 +619,15 @@
     "school": "DAO",
     "status": "clear",
     "username": "Swift_String"
+  },
+  "b5bbb5de-4563-4268-8031-660ee0000d48": {
+    "grad": "31",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "player",
+    "school": "HW",
+    "status": "clear",
+    "username": "dewyzs"
   },
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "grad": "29",
