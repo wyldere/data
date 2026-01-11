@@ -55,7 +55,7 @@
   },
   "114729fc-c6b5-40db-9aba-e0356eb3bd29": {
     "grad": "28",
-    "pixAmount": 15.0,
+    "pixAmount": 11.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -100,7 +100,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 30.0,
+    "pixAmount": 31.0,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -271,7 +271,7 @@
   },
   "4a7bdb77-ce67-4623-9ff6-5ee6c0a6c975": {
     "grad": "30",
-    "pixAmount": 8.0,
+    "pixAmount": 9.0,
     "pronouns": null,
     "role": "player",
     "school": "GEFF",
@@ -595,7 +595,7 @@
   },
   "af8099ba-abcd-422b-b776-242c83a25d37": {
     "grad": "30",
-    "pixAmount": 6.0,
+    "pixAmount": 8.0,
     "pronouns": null,
     "role": "player",
     "school": "HW",
@@ -623,7 +623,7 @@
   "b5bbb5de-4563-4268-8031-660ee0000d48": {
     "grad": "31",
     "pixAmount": 8.0,
-    "pronouns": null,
+    "pronouns": "she/her",
     "role": "player",
     "school": "HW",
     "status": "clear",
