@@ -20,7 +20,7 @@
   "HW": {
     "id": "HW",
     "joined": "13.5.2025",
-    "playercount": 15,
+    "playercount": 14,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -245,7 +245,7 @@
   "GEFF": {
     "id": "GEFF",
     "joined": "12.24.2025",
-    "playercount": 1,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
