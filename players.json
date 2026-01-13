@@ -71,6 +71,15 @@
     "status": "banned",
     "username": "cheesypig666"
   },
+  "1172bcd6-ed45-4565-84ec-e806051ecc3d": {
+    "grad": "30",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "burgerbacon42"
+  },
   "16b10b92-aa92-4826-82e9-38768000832c": {
     "grad": "30",
     "pixAmount": 10.0,
@@ -599,7 +608,7 @@
     "pronouns": null,
     "role": "player",
     "school": "HW",
-    "status": "banned",
+    "status": "clear",
     "username": "DatGlitcher"
   },
   "b1369640-e03d-433a-8cca-6d79dddef615": {
