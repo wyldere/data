@@ -2,7 +2,7 @@
   "OHS": {
     "id": "OHS",
     "joined": "18.4.2025",
-    "playercount": 45,
+    "playercount": 0,
     "spawn": {
       "x": "-9",
       "z": "92",
@@ -20,7 +20,7 @@
   "HW": {
     "id": "HW",
     "joined": "13.5.2025",
-    "playercount": 18,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -72,7 +72,7 @@
   "DAO": {
     "id": "DAO",
     "joined": "21.5.2025",
-    "playercount": 7,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -90,7 +90,7 @@
   "AEON": {
     "id": "AEON",
     "joined": "23.5.2025",
-    "playercount": 2,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "-3500",
@@ -107,7 +107,7 @@
   "CYPE": {
     "id": "CYPE",
     "joined": "25.5.2025",
-    "playercount": 14,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -126,7 +126,7 @@
   "SF": {
     "id": "SF",
     "joined": "30.5.2025",
-    "playercount": 1,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -160,7 +160,7 @@
   "MIR": {
     "id": "MIR",
     "joined": "6.18.2025",
-    "playercount": 2,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -177,7 +177,7 @@
   "UST": {
     "id": "UST",
     "joined": "7.21.2025",
-    "playercount": 1,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -194,7 +194,7 @@
   "EVH": {
     "id": "EVH",
     "joined": "11.9.2025",
-    "playercount": 1,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -211,7 +211,7 @@
   "DLW": {
     "id": "DLW",
     "joined": "11.12.2025",
-    "playercount": 1,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -228,7 +228,7 @@
   "XRDS": {
     "id": "XRDS",
     "joined": "12.13.2025",
-    "playercount": 1,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -245,7 +245,7 @@
   "GEFF": {
     "id": "GEFF",
     "joined": "12.24.2025",
-    "playercount": 2,
+    "playercount": 0,
     "spawn": {
       "x": "0",
       "z": "0",
