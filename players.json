@@ -334,7 +334,7 @@
   },
   "5533e390-81ef-407c-bb20-d70a807a6feb": {
     "grad": "31",
-    "pixAmount": 42.5,
+    "pixAmount": 99.30000305175781,
     "pronouns": "He/Him",
     "role": "developer",
     "school": "HW",
@@ -406,7 +406,7 @@
   },
   "6e4aaaca-43a0-450f-917b-19f8448426e2": {
     "grad": "28",
-    "pixAmount": 4.0,
+    "pixAmount": 4.019999980926514,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -613,7 +613,7 @@
   },
   "ab6b112d-3e0d-4ef8-9a2c-88a10bdf0591": {
     "grad": "31",
-    "pixAmount": 10.0,
+    "pixAmount": 11.800000190734863,
     "pronouns": ":)/:(",
     "role": "player",
     "school": "HW",
@@ -662,8 +662,8 @@
     "pronouns": null,
     "role": "admin",
     "school": "OHS",
-    "status": "blacklist",
-    "username": "Wildere"
+    "status": "clear",
+    "username": "wildere"
   },
   "bebfa99d-9b6e-4bc0-96f6-4f0639e9ba6d": {
     "grad": "26",
@@ -685,7 +685,7 @@
   },
   "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
     "grad": "27",
-    "pixAmount": 10.0,
+    "pixAmount": 78.79000091552734,
     "pronouns": "he/him",
     "role": "player",
     "school": "OHS",
@@ -793,11 +793,11 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 4.0,
+    "pixAmount": 0.75,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
-    "status": "banned",
+    "status": "clear",
     "username": "raspiberri"
   },
   "ec688cec-c31c-4cc4-9558-c7a94d2f3ec4": {
