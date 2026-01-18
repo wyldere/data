@@ -298,7 +298,7 @@
   },
   "4a7bdb77-ce67-4623-9ff6-5ee6c0a6c975": {
     "grad": "30",
-    "pixAmount": 10.0,
+    "pixAmount": 0.0,
     "pronouns": null,
     "role": "player",
     "school": "GEFF",
@@ -685,7 +685,7 @@
   },
   "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
     "grad": "27",
-    "pixAmount": 78.79000091552734,
+    "pixAmount": 75.63999938964844,
     "pronouns": "he/him",
     "role": "player",
     "school": "OHS",
@@ -793,7 +793,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 0.75,
+    "pixAmount": 3.75,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
