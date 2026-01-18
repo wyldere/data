@@ -406,8 +406,8 @@
   },
   "6e4aaaca-43a0-450f-917b-19f8448426e2": {
     "grad": "28",
-    "pixAmount": 2.629999876022339,
-    "pronouns": null,
+    "pixAmount": 18.099998474121094,
+    "pronouns": "mafia boss",
     "role": "player",
     "school": "OHS",
     "status": "clear",
@@ -613,7 +613,7 @@
   },
   "ab6b112d-3e0d-4ef8-9a2c-88a10bdf0591": {
     "grad": "31",
-    "pixAmount": 15.270000457763672,
+    "pixAmount": 15.770000457763672,
     "pronouns": ":)/:(",
     "role": "player",
     "school": "HW",
