@@ -258,5 +258,22 @@
     "website": [
       "geffenacademy.ucla.edu"
     ]
+  },
+  "TVAH": {
+    "id": "TVAH",
+    "joined": "1.19.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Taj"
+    ],
+    "name": "Texas Virtual Academy at Hallsville",
+    "website": [
+      "tvahallsville.org"
+    ]
   }
 }
