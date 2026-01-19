@@ -170,6 +170,15 @@
     "status": "clear",
     "username": "ScaroSnow"
   },
+  "298b1528-8c15-4d63-8759-13a32d985dea": {
+    "grad": "31",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "player",
+    "school": "HW",
+    "status": "clear",
+    "username": "Not_Paxytron"
+  },
   "2b44053f-906e-4c43-aa48-0975be62d0be": {
     "grad": "29",
     "pixAmount": 8.0,
@@ -201,7 +210,7 @@
     "grad": "31",
     "pixAmount": 8.0,
     "pronouns": null,
-    "role": "new",
+    "role": "player",
     "school": "HW",
     "status": "clear",
     "username": "riceWyatt"
@@ -334,7 +343,7 @@
   },
   "5533e390-81ef-407c-bb20-d70a807a6feb": {
     "grad": "31",
-    "pixAmount": 109.30000305175781,
+    "pixAmount": 115.0,
     "pronouns": "He/Him",
     "role": "developer",
     "school": "HW",
@@ -415,7 +424,7 @@
   },
   "6f8b3d73-9bfe-47b0-898b-44fb9bf36aac": {
     "grad": "29",
-    "pixAmount": 2.0,
+    "pixAmount": 21.0,
     "pronouns": "fabled/potato",
     "role": "player",
     "school": "OHS",
