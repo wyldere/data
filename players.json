@@ -424,7 +424,7 @@
   },
   "6e4aaaca-43a0-450f-917b-19f8448426e2": {
     "grad": "28",
-    "pixAmount": 18.529998779296875,
+    "pixAmount": 16.42999839782715,
     "pronouns": "mafia boss",
     "role": "player",
     "school": "OHS",
@@ -502,6 +502,15 @@
     "school": "HW",
     "status": "clear",
     "username": "LYL_PLAZ"
+  },
+  "88980fe5-99af-4aaa-9470-4d70a5658ac1": {
+    "grad": "31",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "minecraftnoah"
   },
   "8a75f688-b5a2-45b8-8d3a-a0031a890fcc": {
     "grad": "30",
@@ -773,6 +782,15 @@
     "status": "clear",
     "username": "Reer310"
   },
+  "dffd1db7-80b1-455c-8cf1-8e5fbb64b5ec": {
+    "grad": "31",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "LuciaM"
+  },
   "e0a76b9e-9aa2-4402-aae7-cccb6b1783a1": {
     "grad": "28",
     "pixAmount": 10.0,
@@ -811,7 +829,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 17.309999465942383,
+    "pixAmount": 19.309999465942383,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
