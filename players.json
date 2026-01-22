@@ -370,7 +370,7 @@
   },
   "5533e390-81ef-407c-bb20-d70a807a6feb": {
     "grad": "31",
-    "pixAmount": 109.0,
+    "pixAmount": 109.0999984741211,
     "pronouns": "He/Him",
     "role": "developer",
     "school": "HW",
@@ -442,7 +442,7 @@
   },
   "6e4aaaca-43a0-450f-917b-19f8448426e2": {
     "grad": "28",
-    "pixAmount": 16.42999839782715,
+    "pixAmount": 16.05999755859375,
     "pronouns": "mafia boss",
     "role": "player",
     "school": "OHS",
@@ -601,6 +601,15 @@
     "school": "CYPE",
     "status": "clear",
     "username": "Capybora_"
+  },
+  "a24ce337-6f10-4216-b7ab-701fcaff355d": {
+    "grad": "27",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "CYPE",
+    "status": "clear",
+    "username": "fkitty"
   },
   "a37d7b0b-f4f4-4b24-bc35-2f6b2d03b62e": {
     "grad": "26",
@@ -856,7 +865,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 27.809999465942383,
+    "pixAmount": 28.059999465942383,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
