@@ -109,7 +109,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 22.939998626708984,
+    "pixAmount": 17.159997940063477,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -235,7 +235,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 6.039999961853027,
+    "pixAmount": 0.7899999618530273,
     "pronouns": "hi",
     "role": "player",
     "school": "OHS",
@@ -316,7 +316,7 @@
   },
   "4a7bdb77-ce67-4623-9ff6-5ee6c0a6c975": {
     "grad": "30",
-    "pixAmount": 1.5499999523162842,
+    "pixAmount": 6.550000190734863,
     "pronouns": null,
     "role": "player",
     "school": "GEFF",
@@ -764,6 +764,15 @@
     "status": "clear",
     "username": "CommodoreCactus"
   },
+  "d917343c-0045-49da-b7cf-554b343bbac9": {
+    "grad": "31",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "HW",
+    "status": "clear",
+    "username": "Holymenace9"
+  },
   "d9f6720f-8150-47f4-a823-51c3691e3261": {
     "grad": "31",
     "pixAmount": 0.0,
@@ -829,7 +838,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 19.309999465942383,
+    "pixAmount": 24.809999465942383,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
