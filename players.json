@@ -469,7 +469,7 @@
   },
   "70446724-d086-4281-8638-8f7e8c076927": {
     "grad": "30",
-    "pixAmount": 0.5500001907348633,
+    "pixAmount": 2.549999952316284,
     "pronouns": null,
     "role": "ambassador",
     "school": "MIR",
@@ -604,10 +604,10 @@
   },
   "9a31ac0a-577f-41d9-82d6-1d1caa35d851": {
     "grad": "",
-    "pixAmount": 0.0,
+    "pixAmount": 15.0,
     "pronouns": "",
     "role": "",
-    "school": "",
+    "school": "MIR",
     "status": "clear",
     "username": "Pixel_Alex"
   },
