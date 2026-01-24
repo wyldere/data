@@ -275,5 +275,22 @@
     "website": [
       "tvahallsville.org"
     ]
+  },
+  "ILA": {
+    "id": "ILA",
+    "joined": "1.23.2025",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Ben"
+    ],
+    "name": "Ignite Learning Academy",
+    "website": [
+      "ignitelearningacademy.com"
+    ]
   }
 }
