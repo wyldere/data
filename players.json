@@ -359,6 +359,15 @@
     "status": "clear",
     "username": "UnicornPuppy515"
   },
+  "4e4571a5-db0b-4581-849c-8660619ee587": {
+    "grad": "27",
+    "pixAmount": 15.0,
+    "pronouns": null,
+    "role": "player",
+    "school": "MIR",
+    "status": "clear",
+    "username": "Edafro"
+  },
   "52ef47f8-f5de-4136-abbc-3ffa0afc946c": {
     "grad": "28",
     "pixAmount": 10.0,
@@ -603,10 +612,10 @@
     "username": "Capybora_"
   },
   "9a31ac0a-577f-41d9-82d6-1d1caa35d851": {
-    "grad": "",
+    "grad": "30",
     "pixAmount": 15.0,
-    "pronouns": "",
-    "role": "",
+    "pronouns": "No pronouns set",
+    "role": "player",
     "school": "MIR",
     "status": "clear",
     "username": "Pixel_Alex"
@@ -685,7 +694,7 @@
   },
   "af8099ba-abcd-422b-b776-242c83a25d37": {
     "grad": "30",
-    "pixAmount": 8.039999961853027,
+    "pixAmount": 7.639999866485596,
     "pronouns": null,
     "role": "player",
     "school": "HW",
