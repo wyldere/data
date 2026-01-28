@@ -28,10 +28,10 @@
   },
   "0c367eec-92de-4dfa-89e6-b8e93d0ec5c2": {
     "grad": "29",
-    "pixAmount": 0.21000075340270996,
+    "pixAmount": 0.21,
     "pronouns": "skibidi/skibid",
-    "role": "ambassador",
-    "school": "CYPE",
+    "role": "player",
+    "school": "OHS",
     "status": "clear",
     "username": "TheZardian"
   },
@@ -113,7 +113,7 @@
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
-    "status": "clear",
+    "status": "banned",
     "username": "vigugegege"
   },
   "1fc49b9f-ba51-44c0-aa9d-78e7bf3dc34b": {
@@ -253,7 +253,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 19.249996185302734,
+    "pixAmount": 24.249996185302734,
     "pronouns": "hi",
     "role": "player",
     "school": "OHS",
@@ -703,7 +703,7 @@
   },
   "af8099ba-abcd-422b-b776-242c83a25d37": {
     "grad": "30",
-    "pixAmount": 7.639999866485596,
+    "pixAmount": 2.3899998664855957,
     "pronouns": null,
     "role": "player",
     "school": "HW",

@@ -2,7 +2,7 @@
   "OHS": {
     "id": "OHS",
     "joined": "18.4.2025",
-    "playercount": 45,
+    "playercount": 46,
     "spawn": {
       "x": "-9",
       "z": "92",
@@ -20,7 +20,7 @@
   "HW": {
     "id": "HW",
     "joined": "13.5.2025",
-    "playercount": 20,
+    "playercount": 19,
     "spawn": {
       "x": "0",
       "z": "0",
@@ -107,7 +107,7 @@
   "CYPE": {
     "id": "CYPE",
     "joined": "25.5.2025",
-    "playercount": 17,
+    "playercount": 16,
     "spawn": {
       "x": "0",
       "z": "0",
