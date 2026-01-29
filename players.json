@@ -109,7 +109,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 2.1499996185302734,
+    "pixAmount": 7.149999618530273,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -417,7 +417,7 @@
     "grad": "29",
     "pixAmount": 15.0,
     "pronouns": null,
-    "role": "new",
+    "role": "player",
     "school": "OHS",
     "status": "clear",
     "username": "acetol"
@@ -946,7 +946,7 @@
   },
   "f5a5c1a8-f4eb-4194-ba3c-8d6ca3cfec82": {
     "grad": "30",
-    "pixAmount": 13.0,
+    "pixAmount": 7.75,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
