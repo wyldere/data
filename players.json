@@ -413,6 +413,15 @@
     "status": "clear",
     "username": "Coordin"
   },
+  "61fcce5c-2c3a-4ed1-8f43-6cf210b32375": {
+    "grad": "29",
+    "pixAmount": 15.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "OHS",
+    "status": "clear",
+    "username": "acetol"
+  },
   "62102927-5f0d-4afb-81be-04855316b59c": {
     "grad": "29",
     "pixAmount": 8.0,
@@ -469,7 +478,7 @@
   },
   "6f8b3d73-9bfe-47b0-898b-44fb9bf36aac": {
     "grad": "29",
-    "pixAmount": 41.0,
+    "pixAmount": 61.0,
     "pronouns": "fabled/potato",
     "role": "player",
     "school": "OHS",
