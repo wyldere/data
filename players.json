@@ -602,6 +602,15 @@
     "status": "clear",
     "username": "DogV3"
   },
+  "95a0aa35-255c-4710-b347-f75a5a1f02fc": {
+    "grad": "29",
+    "pixAmount": 15.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "SCS",
+    "status": "clear",
+    "username": "Evildormat"
+  },
   "986e28d0-7fa2-42d7-a793-b7d2378b385c": {
     "grad": "31",
     "pixAmount": 8.0,
@@ -703,7 +712,7 @@
   },
   "ab6b112d-3e0d-4ef8-9a2c-88a10bdf0591": {
     "grad": "31",
-    "pixAmount": 7.630000114440918,
+    "pixAmount": 7.599999904632568,
     "pronouns": ":)/:(",
     "role": "player",
     "school": "HW",
