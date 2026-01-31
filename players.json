@@ -50,7 +50,7 @@
     "pronouns": null,
     "role": "player",
     "school": "HW",
-    "status": "banned",
+    "status": "clear",
     "username": "juice1moose"
   },
   "114729fc-c6b5-40db-9aba-e0356eb3bd29": {
@@ -109,7 +109,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 6.509999752044678,
+    "pixAmount": 5.449999809265137,
     "pronouns": null,
     "role": "ambassador",
     "school": "HW",
@@ -712,7 +712,7 @@
   },
   "ab6b112d-3e0d-4ef8-9a2c-88a10bdf0591": {
     "grad": "31",
-    "pixAmount": 8.510001182556152,
+    "pixAmount": 2.8299999237060547,
     "pronouns": ":)/:(",
     "role": "player",
     "school": "HW",
@@ -721,7 +721,7 @@
   },
   "af8099ba-abcd-422b-b776-242c83a25d37": {
     "grad": "30",
-    "pixAmount": 2.3899998664855957,
+    "pixAmount": 0.7999999523162842,
     "pronouns": null,
     "role": "player",
     "school": "HW",
@@ -925,6 +925,15 @@
     "school": "OHS",
     "status": "clear",
     "username": "shreyyyyuh"
+  },
+  "edddd442-897b-4b41-8024-1680a7398c28": {
+    "grad": "29",
+    "pixAmount": 15.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "OHS",
+    "status": "clear",
+    "username": "RipFinnick"
   },
   "f0348c0a-79a6-4a13-bba5-d760eec3fe5b": {
     "grad": "26",
