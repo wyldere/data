@@ -334,7 +334,7 @@
   },
   "4a7bdb77-ce67-4623-9ff6-5ee6c0a6c975": {
     "grad": "30",
-    "pixAmount": 0.25,
+    "pixAmount": 10.25,
     "pronouns": null,
     "role": "player",
     "school": "GEFF",
@@ -478,7 +478,7 @@
   },
   "6f8b3d73-9bfe-47b0-898b-44fb9bf36aac": {
     "grad": "29",
-    "pixAmount": 60.470001220703125,
+    "pixAmount": 49.970001220703125,
     "pronouns": "fabled/potato",
     "role": "player",
     "school": "OHS",
