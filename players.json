@@ -1,8 +1,8 @@
 {
   "01e42e10-9581-449e-a6e7-7485c9cf77ad": {
     "grad": "31",
-    "pixAmount": 0.0,
-    "pronouns": "gay",
+    "pixAmount": 0.75,
+    "pronouns": "pneumonoultramicroscopicsilicovolcanoconiosis",
     "role": "player",
     "school": "OHS",
     "status": "clear",
@@ -379,7 +379,7 @@
   },
   "5533e390-81ef-407c-bb20-d70a807a6feb": {
     "grad": "31",
-    "pixAmount": 111.77999877929688,
+    "pixAmount": 110.77999877929688,
     "pronouns": "He/Him",
     "role": "developer",
     "school": "HW",
@@ -712,7 +712,7 @@
   },
   "ab6b112d-3e0d-4ef8-9a2c-88a10bdf0591": {
     "grad": "31",
-    "pixAmount": 3.5400002002716064,
+    "pixAmount": 4.039999961853027,
     "pronouns": ":)/:(",
     "role": "player",
     "school": "HW",
@@ -721,7 +721,7 @@
   },
   "af8099ba-abcd-422b-b776-242c83a25d37": {
     "grad": "30",
-    "pixAmount": 0.26999998092651367,
+    "pixAmount": 0.2199999839067459,
     "pronouns": null,
     "role": "player",
     "school": "HW",
@@ -739,7 +739,7 @@
   },
   "b50f7ece-a8f0-4cf0-bdc8-23fbbb66de4f": {
     "grad": "28",
-    "pixAmount": 6.46999979019165,
+    "pixAmount": 6.439999580383301,
     "pronouns": null,
     "role": "player",
     "school": "DAO",
@@ -784,7 +784,7 @@
   },
   "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
     "grad": "27",
-    "pixAmount": 218.02000427246094,
+    "pixAmount": 217.49000549316406,
     "pronouns": "he/him",
     "role": "player",
     "school": "OHS",
