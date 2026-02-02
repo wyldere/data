@@ -261,7 +261,7 @@
   },
   "TVAH": {
     "id": "TVAH",
-    "joined": "1.19.2025",
+    "joined": "1.19.2026",
     "playercount": 1,
     "spawn": {
       "x": "0",
@@ -278,7 +278,7 @@
   },
   "ILA": {
     "id": "ILA",
-    "joined": "1.23.2025",
+    "joined": "1.23.2026",
     "playercount": 0,
     "spawn": {
       "x": "0",
@@ -295,7 +295,7 @@
   },
   "SCS": {
     "id": "SCS",
-    "joined": "1.28.2025",
+    "joined": "1.28.2026",
     "playercount": 2,
     "spawn": {
       "x": "0",
@@ -308,6 +308,23 @@
     "name": "Sierra Canyon School",
     "website": [
       "scsstudent.org"
+    ]
+  },
+  "CHS": {
+    "id": "CHS",
+    "joined": "2.1.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Oborb"
+    ],
+    "name": "Chantilly High School",
+    "website": [
+      "fcpsschools.net"
     ]
   }
 }
