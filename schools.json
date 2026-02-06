@@ -326,5 +326,22 @@
     "website": [
       "fcpsschools.net"
     ]
+  },
+  "RHS": {
+    "id": "RHS",
+    "joined": "2.6.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Someone"
+    ],
+    "name": "Ridgewood High School",
+    "website": [
+      "rpsnj.us"
+    ]
   }
 }
