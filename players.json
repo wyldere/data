@@ -217,9 +217,9 @@
   },
   "2f70e04c-fada-4f0e-a214-f5a2a55e663c": {
     "grad": "",
-    "pixAmount": 0.0,
+    "pixAmount": 15.0,
     "pronouns": "",
-    "role": "",
+    "role": "new",
     "school": "CHS",
     "status": "clear",
     "username": "oborb"
@@ -955,7 +955,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 0.7299999594688416,
+    "pixAmount": 0.3299999535083771,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
