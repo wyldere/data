@@ -615,10 +615,10 @@
     "grad": "29",
     "pixAmount": 15.0,
     "pronouns": null,
-    "role": "new",
+    "role": "player",
     "school": "RHS",
     "status": "clear",
-    "username": "Dubgles"
+    "username": "dubgles"
   },
   "8da2493e-4225-4c21-abfe-698453d34fe6": {
     "grad": "31",
@@ -829,7 +829,7 @@
   },
   "c645546f-4ab0-4a4b-804a-f64ecccaa1b3": {
     "grad": "27",
-    "pixAmount": 305.2300109863281,
+    "pixAmount": 305.23,
     "pronouns": "he/him",
     "role": "player",
     "school": "OHS",
