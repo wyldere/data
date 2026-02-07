@@ -226,7 +226,7 @@
   },
   "3213c488-d770-404a-9028-4bae9ea292d9": {
     "grad": "31",
-    "pixAmount": 8.0,
+    "pixAmount": 0.0,
     "pronouns": null,
     "role": "player",
     "school": "MIR",
@@ -802,7 +802,7 @@
   },
   "b5bbb5de-4563-4268-8031-660ee0000d48": {
     "grad": "31",
-    "pixAmount": 0.0,
+    "pixAmount": 8.0,
     "pronouns": "she/her",
     "role": "player",
     "school": "HW",
