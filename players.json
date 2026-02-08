@@ -397,7 +397,7 @@
   },
   "5533e390-81ef-407c-bb20-d70a807a6feb": {
     "grad": "31",
-    "pixAmount": 110.77999877929688,
+    "pixAmount": 108.77999877929688,
     "pronouns": "He/Him",
     "role": "developer",
     "school": "HW",
@@ -802,7 +802,7 @@
   },
   "b5bbb5de-4563-4268-8031-660ee0000d48": {
     "grad": "31",
-    "pixAmount": 8.0,
+    "pixAmount": 16.0,
     "pronouns": "she/her",
     "role": "player",
     "school": "HW",
@@ -937,7 +937,7 @@
   },
   "e162943e-86df-455c-9549-f3cdd30aabbd": {
     "grad": "29",
-    "pixAmount": 15.0,
+    "pixAmount": 9.0,
     "pronouns": null,
     "role": "player",
     "school": "SCS",
