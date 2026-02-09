@@ -370,7 +370,7 @@
   },
   "4e3129c7-0bbf-401e-abfb-4e855431b069": {
     "grad": "30",
-    "pixAmount": 1.850000023841858,
+    "pixAmount": 0.26999998092651367,
     "pronouns": "they/them",
     "role": "player",
     "school": "OHS",
@@ -536,7 +536,7 @@
     "pronouns": null,
     "role": "player",
     "school": "HW",
-    "status": "banned",
+    "status": "clear",
     "username": "LAG_ROD"
   },
   "7968873d-798e-45e8-9329-f17c717267b8": {
@@ -793,7 +793,7 @@
   },
   "b50f7ece-a8f0-4cf0-bdc8-23fbbb66de4f": {
     "grad": "28",
-    "pixAmount": 1.190000057220459,
+    "pixAmount": 2.690000057220459,
     "pronouns": null,
     "role": "player",
     "school": "DAO",
