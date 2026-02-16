@@ -343,5 +343,56 @@
     "website": [
       "rpsnj.us"
     ]
+  },
+  "LJA": {
+    "id": "LJA",
+    "joined": "2.16.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "happyduck1011"
+    ],
+    "name": "Landow Jewish Academy",
+    "website": [
+      "tjaonline.com"
+    ]
+  },
+  "PMS": {
+    "id": "PMS",
+    "joined": "2.16.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "PiggyPlays144"
+    ],
+    "name": "Pound Middle School",
+    "website": [
+      "class.lps.org"
+    ]
+  },
+  "WOO": {
+    "id": "WOO",
+    "joined": "2.16.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Someone"
+    ],
+    "name": "Woolooware High School",
+    "website": [
+      "det.nsw.edu.au"
+    ]
   }
 }
