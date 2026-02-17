@@ -278,6 +278,15 @@
     "status": "clear",
     "username": "cooked_cods"
   },
+  "3d00c109-09fc-436a-b470-b78a159185be": {
+    "grad": "30",
+    "pixAmount": 8.0,
+    "pronouns": null,
+    "role": "player",
+    "school": "HW",
+    "status": "clear",
+    "username": "yungducki"
+  },
   "3fe6f2a5-2275-40f1-af5e-12527daeb1ae": {
     "grad": "28",
     "pixAmount": 8.0,
@@ -592,15 +601,6 @@
     "school": "CYPE",
     "status": "clear",
     "username": "minecraftnoah"
-  },
-  "8a75f688-b5a2-45b8-8d3a-a0031a890fcc": {
-    "grad": "30",
-    "pixAmount": 8.0,
-    "pronouns": null,
-    "role": "player",
-    "school": "HW",
-    "status": "clear",
-    "username": "KatsuWater"
   },
   "8c85fb68-d2d1-42bc-a7c3-3508c04e1cff": {
     "grad": "27",
@@ -973,7 +973,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 14.059999465942383,
+    "pixAmount": 14.049999237060547,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
