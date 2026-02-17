@@ -336,7 +336,7 @@
     "grad": "29",
     "pixAmount": 0.0,
     "pronouns": null,
-    "role": "developer",
+    "role": "Player",
     "school": "OHS",
     "status": "clear",
     "username": "FluffyCloud12"
@@ -775,7 +775,7 @@
   },
   "af8099ba-abcd-422b-b776-242c83a25d37": {
     "grad": "30",
-    "pixAmount": 0.690000057220459,
+    "pixAmount": 0.5800000429153442,
     "pronouns": null,
     "role": "player",
     "school": "HW",
@@ -973,7 +973,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 13.969999313354492,
+    "pixAmount": 14.059999465942383,
     "pronouns": "he/him",
     "role": "player",
     "school": "HW",
