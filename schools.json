@@ -394,5 +394,22 @@
     "website": [
       "education.nsw.gov.au"
     ]
+  },
+  "LCS": {
+    "id": "LCS",
+    "joined": "2.18.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Visions"
+    ],
+    "name": "Lausanne Collegiate School",
+    "website": [
+      "lausanneschool.com"
+    ]
   }
 }
