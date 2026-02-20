@@ -278,6 +278,15 @@
     "status": "clear",
     "username": "cooked_cods"
   },
+  "3abbb450-07f5-46ba-90ae-5db235f99477": {
+    "grad": "30",
+    "pixAmount": 15.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "WOO",
+    "status": "clear",
+    "username": "itzrcalme"
+  },
   "3d00c109-09fc-436a-b470-b78a159185be": {
     "grad": "30",
     "pixAmount": 8.0,
@@ -641,7 +650,7 @@
   "91154f95-4978-4d37-a417-b41dd218563c": {
     "grad": "29",
     "pixAmount": 0.800000011920929,
-    "pronouns": null,
+    "pronouns": "he/him",
     "role": "player",
     "school": "LCS",
     "status": "clear",
