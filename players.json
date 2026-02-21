@@ -109,7 +109,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 53.150001525878906,
+    "pixAmount": 63.150001525878906,
     "pronouns": null,
     "role": "player",
     "school": "HW",
@@ -271,7 +271,7 @@
   },
   "38c43c08-bd93-4d1f-b9eb-c3f62f1ae339": {
     "grad": "30",
-    "pixAmount": 29.729999542236328,
+    "pixAmount": 13.979999542236328,
     "pronouns": "she/her",
     "role": "player",
     "school": "OHS",
@@ -514,7 +514,7 @@
   },
   "6e4aaaca-43a0-450f-917b-19f8448426e2": {
     "grad": "28",
-    "pixAmount": 0.0,
+    "pixAmount": 5.0,
     "pronouns": "mafia boss",
     "role": "player",
     "school": "OHS",
