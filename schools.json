@@ -411,5 +411,39 @@
     "website": [
       "lausanneschool.com"
     ]
+  },
+  "OLJB": {
+    "id": "OLJB",
+    "joined": "2.26.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "Sebastian"
+    ],
+    "name": "Os Ljubljanica",
+    "website": [
+      "os-ljubljanica-zg.skole.hr"
+    ]
+  },
+  "IRON": {
+    "id": "IRON",
+    "joined": "2.26.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [
+      "HeyImSpruce"
+    ],
+    "name": "Ironwood Academy",
+    "website": [
+      "ironwoodacademy.org"
+    ]
   }
 }
