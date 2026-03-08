@@ -84,7 +84,7 @@
     "grad": "30",
     "pixAmount": 15.0,
     "pronouns": null,
-    "role": "new",
+    "role": "player",
     "school": "HW",
     "status": "clear",
     "username": "JRoyalGamer"
@@ -866,7 +866,7 @@
   "b5bbb5de-4563-4268-8031-660ee0000d48": {
     "grad": "31",
     "pixAmount": 10.0,
-    "pronouns": "she/her",
+    "pronouns": "h",
     "role": "player",
     "school": "HW",
     "status": "clear",
