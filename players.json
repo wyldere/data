@@ -379,7 +379,7 @@
   },
   "4a7bdb77-ce67-4623-9ff6-5ee6c0a6c975": {
     "grad": "30",
-    "pixAmount": 9.210000038146973,
+    "pixAmount": 1.2100000381469727,
     "pronouns": null,
     "role": "player",
     "school": "GEFF",
@@ -1054,7 +1054,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 10.0,
+    "pixAmount": 2.0,
     "pronouns": "asdf",
     "role": "player",
     "school": "HW",
