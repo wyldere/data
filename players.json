@@ -560,7 +560,7 @@
   "6fdbc574-c92b-4437-81da-79925a994f6c": {
     "grad": "32",
     "pixAmount": 10.0,
-    "pronouns": null,
+    "pronouns": "he him",
     "role": "player",
     "school": "OHS",
     "status": "clear",
@@ -1054,7 +1054,7 @@
   },
   "ea8fff77-502c-4cdc-936c-70cf579a2fc2": {
     "grad": "30",
-    "pixAmount": 2.0,
+    "pixAmount": 1.7000000476837158,
     "pronouns": "asdf",
     "role": "player",
     "school": "HW",
