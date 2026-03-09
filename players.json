@@ -694,7 +694,7 @@
   },
   "91154f95-4978-4d37-a417-b41dd218563c": {
     "grad": "29",
-    "pixAmount": 10.0,
+    "pixAmount": 2.0,
     "pronouns": "he/him",
     "role": "player",
     "school": "LCS",
@@ -1058,7 +1058,7 @@
     "pronouns": "asdf",
     "role": "player",
     "school": "HW",
-    "status": "clear",
+    "status": "banned",
     "username": "raspiberri"
   },
   "ec688cec-c31c-4cc4-9558-c7a94d2f3ec4": {
