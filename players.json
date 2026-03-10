@@ -101,7 +101,7 @@
   "1b50dec7-eafe-4a2e-a0d3-c711e89d8b77": {
     "grad": "30",
     "pixAmount": 10.0,
-    "pronouns": null,
+    "pronouns": "jrod",
     "role": "ambassador",
     "school": "HW",
     "status": "clear",
@@ -1087,6 +1087,15 @@
     "school": "OHS",
     "status": "clear",
     "username": "The_Duck_King_"
+  },
+  "f07ec8e4-9978-4624-818a-eee84490c7c1": {
+    "grad": "28",
+    "pixAmount": 10.0,
+    "pronouns": null,
+    "role": "new",
+    "school": "OHS",
+    "status": "clear",
+    "username": "dayphayknees"
   },
   "f151a8b7-f500-41cf-9133-dd019a4ee90f": {
     "grad": "30",
