@@ -901,7 +901,7 @@
   },
   "b9a8b64e-3e30-4c3b-a989-c2a56f75a316": {
     "grad": "29",
-    "pixAmount": 0.0,
+    "pixAmount": 2.0,
     "pronouns": null,
     "role": "admin",
     "school": "OHS",
@@ -1144,7 +1144,7 @@
   },
   "f5a5c1a8-f4eb-4194-ba3c-8d6ca3cfec82": {
     "grad": "30",
-    "pixAmount": 2.0,
+    "pixAmount": 0.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
