@@ -46,7 +46,7 @@
   },
   "0f8ef3ca-126e-48df-9af2-bf14418c75a0": {
     "grad": "31",
-    "pixAmount": 9.5,
+    "pixAmount": 6.5,
     "pronouns": null,
     "role": "player",
     "school": "HW",
@@ -417,9 +417,9 @@
     "grad": "30",
     "pixAmount": 2.0,
     "pronouns": "they/them",
-    "role": "ambassador",
+    "role": "player",
     "school": "OHS",
-    "status": "clear",
+    "status": "banned",
     "username": "SashaPotato"
   },
   "4e4571a5-db0b-4581-849c-8660619ee587": {
@@ -451,7 +451,7 @@
   },
   "5533e390-81ef-407c-bb20-d70a807a6feb": {
     "grad": "31",
-    "pixAmount": 8.0,
+    "pixAmount": 3.0,
     "pronouns": "He/Him",
     "role": "developer",
     "school": "HW",
