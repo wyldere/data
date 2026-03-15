@@ -118,7 +118,7 @@
   },
   "1ecabc2f-fe5f-4d44-871f-17e0d0c605d4": {
     "grad": "30",
-    "pixAmount": 5.340000152587891,
+    "pixAmount": 6.340000152587891,
     "pronouns": "j/rod",
     "role": "player",
     "school": "HW",
@@ -293,7 +293,7 @@
     "pronouns": "she/her",
     "role": "player",
     "school": "OHS",
-    "status": "banned",
+    "status": "clear",
     "username": "cooked_cods"
   },
   "3abbb450-07f5-46ba-90ae-5db235f99477": {
@@ -397,7 +397,7 @@
   },
   "4a7bdb77-ce67-4623-9ff6-5ee6c0a6c975": {
     "grad": "30",
-    "pixAmount": 4.159999847412109,
+    "pixAmount": 3.109999895095825,
     "pronouns": null,
     "role": "player",
     "school": "GEFF",
@@ -1009,7 +1009,7 @@
   },
   "d9f6720f-8150-47f4-a823-51c3691e3261": {
     "grad": "31",
-    "pixAmount": 10.0,
+    "pixAmount": 2.0,
     "pronouns": "goon",
     "role": "player",
     "school": "HW",
