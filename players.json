@@ -50,7 +50,7 @@
     "pronouns": null,
     "role": "player",
     "school": "HW",
-    "status": "clear",
+    "status": "banned",
     "username": "juice1moose"
   },
   "114729fc-c6b5-40db-9aba-e0356eb3bd29": {
@@ -248,7 +248,7 @@
     "pronouns": null,
     "role": "player",
     "school": "MIR",
-    "status": "banned",
+    "status": "clear",
     "username": "Contrerassy_40"
   },
   "333540fb-22be-421a-ba1b-638e1b1c5eee": {
@@ -878,7 +878,7 @@
     "pronouns": null,
     "role": "player",
     "school": "HW",
-    "status": "clear",
+    "status": "banned",
     "username": "DatGlitcher"
   },
   "b1369640-e03d-433a-8cca-6d79dddef615": {
@@ -1193,7 +1193,7 @@
     "pronouns": "",
     "role": "alt",
     "school": "",
-    "status": "clear",
+    "status": "banned",
     "username": "jrod_gaymer"
   }
 }
