@@ -107,6 +107,15 @@
     "status": "clear",
     "username": "Trion12"
   },
+  "1ccef50b-f6ae-4542-b1a9-d434384a5b25": {
+    "grad": "67",
+    "pixAmount": 0.0,
+    "pronouns": "",
+    "role": "player",
+    "school": "OHS",
+    "status": "blacklist",
+    "username": "jeff"
+  },
   "1d734ffa-077e-44ef-864d-eb87f82a02c3": {
     "grad": "29",
     "pixAmount": 10.0,
@@ -939,7 +948,7 @@
     "grad": "30",
     "pixAmount": 10.0,
     "pronouns": null,
-    "role": "new",
+    "role": "player",
     "school": "CYPE",
     "status": "clear",
     "username": "V1gness"
