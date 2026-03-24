@@ -86,7 +86,7 @@
     "pronouns": null,
     "role": "player",
     "school": "HW",
-    "status": "banned",
+    "status": "clear",
     "username": "JRoyalGamer"
   },
   "16b10b92-aa92-4826-82e9-38768000832c": {
@@ -682,6 +682,15 @@
     "school": "OHS",
     "status": "clear",
     "username": "T6inator"
+  },
+  "8893b116-2922-43d4-9ec8-bce0c2456ae3": {
+    "grad": "",
+    "pixAmount": 10.0,
+    "pronouns": "",
+    "role": "",
+    "school": "",
+    "status": "blacklist",
+    "username": "Ewok_kaido"
   },
   "88980fe5-99af-4aaa-9470-4d70a5658ac1": {
     "grad": "31",
