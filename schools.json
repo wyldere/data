@@ -2,7 +2,7 @@
   "OHS": {
     "id": "OHS",
     "joined": "18.4.2025",
-    "playercount": 51,
+    "playercount": 50,
     "spawn": {
       "x": "-9",
       "z": "92",
@@ -72,7 +72,7 @@
   "DAO": {
     "id": "DAO",
     "joined": "21.5.2025",
-    "playercount": 7,
+    "playercount": 6,
     "spawn": {
       "x": "0",
       "z": "0",
