@@ -764,6 +764,15 @@
     "status": "clear",
     "username": "Visions1234"
   },
+  "9260faeb-542d-4f2c-bbc2-a0659bda0152": {
+    "grad": "31",
+    "pixAmount": 0.0,
+    "pronouns": null,
+    "role": "player",
+    "school": "XRDS",
+    "status": "clear",
+    "username": "MrSmith123"
+  },
   "9382aafc-cc70-4675-b3e0-c6cdd97cceae": {
     "grad": "27",
     "pixAmount": 2.0,
@@ -784,7 +793,7 @@
   },
   "986e28d0-7fa2-42d7-a793-b7d2378b385c": {
     "grad": "31",
-    "pixAmount": 0.0,
+    "pixAmount": 10.0,
     "pronouns": null,
     "role": "player",
     "school": "XRDS",
