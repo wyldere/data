@@ -784,7 +784,7 @@
   },
   "986e28d0-7fa2-42d7-a793-b7d2378b385c": {
     "grad": "31",
-    "pixAmount": 7.0,
+    "pixAmount": 0.0,
     "pronouns": null,
     "role": "player",
     "school": "XRDS",
@@ -1216,7 +1216,7 @@
   },
   "f5a5c1a8-f4eb-4194-ba3c-8d6ca3cfec82": {
     "grad": "30",
-    "pixAmount": 1.0,
+    "pixAmount": 0.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
