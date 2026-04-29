@@ -505,7 +505,7 @@
   },
   "61fcce5c-2c3a-4ed1-8f43-6cf210b32375": {
     "grad": "29",
-    "pixAmount": 10.0,
+    "pixAmount": 2.0,
     "pronouns": null,
     "role": "player",
     "school": "OHS",
@@ -1090,7 +1090,7 @@
   },
   "ddb84d58-dd09-433a-82c4-b27d79d5a5b9": {
     "grad": "2029",
-    "pixAmount": 10.0,
+    "pixAmount": 2.0,
     "pronouns": "",
     "role": "Player",
     "school": "DAO",
