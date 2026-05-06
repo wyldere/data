@@ -2,7 +2,7 @@
   "OHS": {
     "id": "OHS",
     "joined": "18.4.2025",
-    "playercount": 51,
+    "playercount": 52,
     "spawn": {
       "x": "-9",
       "z": "92",
@@ -504,6 +504,21 @@
     "name": "Sunbury Downs",
     "website": [
       "schools.vic.edu.au"
+    ]
+  },
+  "VXOH": {
+    "id": "VXOH",
+    "joined": "6.5.2026",
+    "playercount": 0,
+    "spawn": {
+      "x": "0",
+      "z": "0",
+      "world": "world"
+    },
+    "ambassadors": [],
+    "name": "VEX Teams of Ohio",
+    "website": [
+      "example.com"
     ]
   }
 }
